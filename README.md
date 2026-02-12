@@ -44,7 +44,6 @@ This repository may include implementations using:
 ##  Repository Structure
 - programming assignments/ # Programming Assignments
 - homework assignments/ # Homework Assignments
-- textbook/ # Textbook
 - project/ # Term Project
 - README.md/ # Respository
 
