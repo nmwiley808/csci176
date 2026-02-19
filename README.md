@@ -41,10 +41,17 @@ This repository may include implementations using:
 
 ---
 
-##  Repository Structure
-- homework assignments/ # Homework Assignments
-- programming assignments/ # Programming Assignments
-- project/ # Term Project
-- README.md/ # Respository
-- csci176 Textbook.pdf/ # Course Textbook
+## Repository Structure
+
+```
+CSCI176/
+│
+├── homework_assignments/        # Homework Assignments
+├── programming_assignments/     # Programming Assignments
+├── project/                     # Term Project
+├── CSCI176_Textbook.pdf         # Course Textbook
+└── README.md                    # Repository Documentation
+```
+
+---
 
