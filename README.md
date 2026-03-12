@@ -87,6 +87,7 @@ For MPI programs:
 mpic++ program.cpp -o program
 mpirun -np 4 ./program
 ```
+Programming Assignments/Projects are typically developed and run using **CLion**.
 
 ---
 
